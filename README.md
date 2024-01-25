@@ -1,1 +1,2 @@
 # Water-Jug-Problem-using-DFS
+The Water Jug Problem is a classic example in artificial intelligence and algorithmic problem-solving. The problem involves two water jugs of different capacities and the goal is to measure a specific quantity of water using these jugs. Here's a brief description of how you can solve this problem using Python with Depth-First Search (DFS), allowing user input for jug capacities and the target quantity.
